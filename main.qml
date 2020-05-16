@@ -17,7 +17,7 @@ Window {
         id: openDialog
         folder: shortcuts.home
 
-        Component.onCompleted: visible = true
+        visible: true
     }
 
     // Important things!
