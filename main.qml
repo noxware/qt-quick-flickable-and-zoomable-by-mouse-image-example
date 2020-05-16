@@ -10,7 +10,7 @@ Window {
     width: 640
     height: 480
     title: qsTr("Qt Quick Flickable And Zoomable By Mouse Image Example")
-    color: "grey"
+    color: "black"
 
     // Just a simple file dialog to choose an image
     FileDialog {
