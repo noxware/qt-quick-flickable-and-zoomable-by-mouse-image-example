@@ -19,6 +19,7 @@ The code...
 - Only uses a signal handler for handling the mouse wheel event (everything else is done automatically by property bindings)
 - Shows you how powerful property bindings are
 
+<!--
 ## Screenshots
 
 ![][Screenshot2]
@@ -32,3 +33,4 @@ The code...
 [Screenshot3]: https://raw.githubusercontent.com/Noxware/Qt-Quick-Flickable-And-Zoomable-By-Mouse-Image-Example/master/images/Screenshot3.jpg
 
 [Screenshot4]: https://raw.githubusercontent.com/Noxware/Qt-Quick-Flickable-And-Zoomable-By-Mouse-Image-Example/master/images/Screenshot4.jpg
+-->
