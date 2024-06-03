@@ -1,5 +1,7 @@
 # Qt-Quick-Flickable-And-Zoomable-By-Mouse-Image-Example
 
+> **NOTE:** This was made a long time ago with Qt 5. It may need some adjustments to work with newer versions of Qt.
+
 This is a simple example of how to do... what the title says... maybe...
 
 ## What it does
