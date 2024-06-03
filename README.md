@@ -22,17 +22,3 @@ The code...
 ## Recordings
 
 https://github.com/noxware/qt-quick-flickable-and-zoomable-by-mouse-image-example/assets/7684329/1d05a9cc-7d6c-4e75-a414-d53d08767855
-
-## Screenshots
-
-![][Screenshot2]
-![][Screenshot3]
-![][Screenshot4]
-
-[Screenshot]: https://raw.githubusercontent.com/Noxware/Qt-Quick-Flickable-And-Zoomable-By-Mouse-Image-Example/master/images/Screenshot.jpg
-
-[Screenshot2]: https://raw.githubusercontent.com/Noxware/Qt-Quick-Flickable-And-Zoomable-By-Mouse-Image-Example/master/images/Screenshot2.jpg
-
-[Screenshot3]: https://raw.githubusercontent.com/Noxware/Qt-Quick-Flickable-And-Zoomable-By-Mouse-Image-Example/master/images/Screenshot3.jpg
-
-[Screenshot4]: https://raw.githubusercontent.com/Noxware/Qt-Quick-Flickable-And-Zoomable-By-Mouse-Image-Example/master/images/Screenshot4.jpg
