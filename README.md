@@ -24,3 +24,7 @@ The code...
 ## Recordings
 
 https://github.com/noxware/qt-quick-flickable-and-zoomable-by-mouse-image-example/assets/7684329/1d05a9cc-7d6c-4e75-a414-d53d08767855
+
+## More
+
+- [@nocanstillbb](https://github.com/nocanstillbb) contributed an alternative solution that works differently but preserves mouse position when you zoom. You can try it by uncommenting their QML file in `main.cpp`.
